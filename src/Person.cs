@@ -7,6 +7,7 @@ namespace src
 {
     public class Person
     {
-        
+        string nom;
+        string prenom;
     }
 }
