@@ -10,4 +10,10 @@ namespace src
         string nom;
         string prenom;
     }
+
+    public Person(string _nom, string _prenom)
+    {
+        this.nom = _nom;
+        this.prenom = _prenom;
+    }
 }
