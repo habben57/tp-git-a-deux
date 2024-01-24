@@ -1,0 +1,14 @@
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\bin\Debug\net7.0\src.exe
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\bin\Debug\net7.0\src.deps.json
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\bin\Debug\net7.0\src.runtimeconfig.json
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\bin\Debug\net7.0\src.dll
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\bin\Debug\net7.0\src.pdb
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\src.AssemblyInfoInputs.cache
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\src.AssemblyInfo.cs
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\src.csproj.CoreCompileInputs.cache
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\src.dll
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\refint\src.dll
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\src.pdb
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\src.genruntimeconfig.cache
+C:\Users\SWeillwoszczyk\Documents\GitHub\tp-git-a-deux-habib\src\obj\Debug\net7.0\ref\src.dll
