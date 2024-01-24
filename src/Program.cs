@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
     Console.WriteLine("Hello, World!");
 
     string nom;
@@ -17,5 +16,5 @@
 
 
 
-        src.Person myPerson = new Person(nom, prenom);
+    src.Person myPerson = new Person(nom, prenom);
 
