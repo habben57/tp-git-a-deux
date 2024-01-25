@@ -14,16 +14,5 @@ namespace src
             this.personnes = _personnes;
         }
 
-        public List<string> SortbyLastName(List<string> _nom)//methode de tri par nom alphabetiqie
-        {
-            _nom.Sort();
-            return _nom;
-        }
-
-        public List<string> SortbyFirstName(List<string> _prenom)//methode de tri par prenom alphabetiqie
-        {
-            _prenom.Sort();
-            return _prenom;
-        }
     }
 }
