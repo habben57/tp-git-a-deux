@@ -8,7 +8,7 @@ namespace src
     public class PeopleContainer
     {
         public List<Person> personnes;
-
+        
         public PeopleContainer(List<Person> _personnes)//constructeur avec parametre
         {
             this.personnes = _personnes;
