@@ -7,12 +7,13 @@ namespace src
 {
     public class PeopleContainer
     {
-        public List<Person> personnes;
+        private List<Person> personnes;
         
         public PeopleContainer(List<Person> _personnes)//constructeur avec parametre
         {
-            this.personnes = _personnes;
+            this.Personnes = _personnes;
         }
 
+        public List<Person> Personnes { get => personnes; set => personnes = value; }
     }
 }

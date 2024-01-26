@@ -16,7 +16,7 @@ Console.WriteLine("Hello, World!");
     //prenom=Console.ReadLine();
 
     //Console.WriteLine(myPerson.nom +" "+myPerson.prenom);
-    src.PeopleContainer mylist = new src.PeopleContainer(list);
+    PeopleContainer mylist = new PeopleContainer(list);
     while(nbPerson < 3)
     {
         Console.WriteLine("Saisissez votre nom: ");
@@ -24,10 +24,10 @@ Console.WriteLine("Hello, World!");
         Console.WriteLine("Saisissez votre prenom: ");
         prenom=Console.ReadLine();
         nbPerson++;
-        src.Person myPerson = new src.Person(nom, prenom);
-        mylist.personnes.Add(myPerson);
+        Person myPerson = new Person(nom, prenom);
+        mylist.Personnes.Add(myPerson);
     }
     for(int i = 0; i < 3; i++)
     {
-        Console.WriteLine(mylist.personnes[i].nom+ " " +mylist.personnes[i].prenom);
+        Console.WriteLine(mylist.Personnes[i].nom+ " " +mylist.Personnes[i].prenom);
     }
